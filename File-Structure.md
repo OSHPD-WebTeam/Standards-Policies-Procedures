@@ -13,3 +13,29 @@
  - No sub-folders allowed
 - No custom or personal folders or pages
  - For example: “Backup”, “index(2).html”, “PDFS”, “Text_PDF_Files” 
+
+# Naming Conventions
+## Folders and HTML pages
+- Correct
+ - Hospital-Financial-Data
+- Incorrect
+ - HospFinData
+ - Hospital_Financial_Data
+ - HospitalFinancialData
+ - Hospitalfinancialdata
+
+## Documents (must have dates):
+- Correct
+ - 20170211-DocumentX.pdf
+- Incorrect
+ - DocumentX_Dec2017.pdf
+ - Jan17DocumentX
+
+## Links
+
+All links must be root relative
+
+- Correct
+ - /Documents/FDD/Seismic-Compliance/file.html
+- Incorrect
+ - file.html	
