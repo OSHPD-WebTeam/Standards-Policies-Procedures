@@ -32,5 +32,5 @@ Correct | Incorrect
 ------------------------- | /Hospital_Financial_Data/
 ------------------------- | /HospitalFinancialData/
 ------------------------- | /Hospitalfinancialdata/
-/Document-Name-2017Feb.pdf | /DocumentX_Dec2017.pdf
--------------------------- | /Jan17DocumentX.pdf
+/Strategic-Plan-2017Feb.pdf | /StrategicPlan_Feb2017.pdf
+-------------------------- | /Jan17-StratPlan.pdf
