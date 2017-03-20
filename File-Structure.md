@@ -13,6 +13,14 @@ The directories and files that make up the website shall be structured by the fo
 - The documents directory will be organized as follows: /documents/[division]/[service(optional)]
 - New directories must be approved
 - Not allowed: “Backup”, “index(2).html”, “PDFS”, “Text_PDF_Files”, "archive"
+- All paths should be root relative *
+
+### * Root relative paths
+A root relative path begins with the '/' (forward slash)  in all href statements.
+- /documents/Admin/exams/7SHAC.pdf &#10004;
+- /FDD/FAQ/index.html &#10004;
+- index.html &#10006;
+- ../FAQ/index.html &#10006;
 
 ## Naming Conventions
 
@@ -34,3 +42,4 @@ Correct | Incorrect
 ------------------------- | /Hospitalfinancialdata/
 /Strategic-Plan-2017Feb.pdf | /StrategicPlan_Feb2017.pdf
 -------------------------- | /Jan17-StratPlan.pdf
+
