@@ -15,6 +15,12 @@ This documentation is being developed.
 
 ### To add
 
+* SharePoint Procedures
+* SharePoint Designer
+* Development Environments
+
+### On Hold
+
 * Central Admin 2010/2013
 * WordPress Admin Guide
 * Wordpress User Guide
