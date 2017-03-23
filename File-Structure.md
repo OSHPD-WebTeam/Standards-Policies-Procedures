@@ -13,7 +13,7 @@ The directories and files that make up the website shall be structured by the fo
 - The documents directory will be organized as follows: /documents/[division]/[service(optional)]
 - New directories must be approved
 - Not allowed: “Backup”, “index(2).html”, “PDFS”, “Text_PDF_Files”, "archive"
-- All paths should be root relative
+- All paths should be [root relative](https://github.com/OSHPD-WebTeam/Standards-Policies-Procedures/blob/master/File-Structure.md#root-relative-paths)
 
 ### Root relative paths
 A root relative path begins with the '/' (forward slash)  in all href statements.
