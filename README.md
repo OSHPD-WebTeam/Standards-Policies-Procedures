@@ -12,6 +12,7 @@ This documentation is being developed.
 * [Services](https://github.com/OSHPD-WebTeam/Standards-Policies-Procedures/blob/master/Services.md)
 * [State Template Usage](https://github.com/OSHPD-WebTeam/Standards-Policies-Procedures/blob/master/State-Template-Usage.md)
 * [Web Server Managment](https://github.com/OSHPD-WebTeam/Standards-Policies-Procedures/blob/master/Web-Server-Managment.md)
+* [Naming Conventions](https://github.com/OSHPD-WebTeam/Standards-Policies-Procedures/blob/master/Naming-Conventions.md)
 
 ### To add
 
