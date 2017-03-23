@@ -1,16 +1,20 @@
 # Help Desk Procedures
 
 ## Track-it
-- All tickets assigned to you must be checked at least once daily
-- Use pre-defined Track-It views
-- Put all web requests and communication related to open web requests into Track-it (emails, phone calls, drop-ins)
-- When working on a ticket, make sure to assign yourself
-- Use the “Email Requestor” option for all requestor communication
-- When re-assigning to another IT technician, provide a justification and mark as private
-- Change status to “Waiting for Response” when action is required by requestor
-- Change status to “Pending” when waiting on an IT technician (yourself included)
-- Only communicate with requestors  the ticket is assigned to you or Q-Web Services
-- Speak with assigned technician before communicating with requestors on tickets that are not assigned to you. They may know something you don’t and we do not want to cause confusion with duplicate work efforts.
+* All tickets assigned to you must be checked at least once daily
+* Use pre-defined Track-It views (advanced users may create custom views)
+* All communication related to open web requests must be put into Track-it (emails, phone calls, drop-ins)
+* Use the “Email Requestor” option for all requestor communication
+* Change status to “Waiting for Response” when action is required by requestor
+* Change status to “Pending” when waiting on an IT technician (yourself included)
+* Ticket Assignments
+ * When working on a ticket, make sure to assign yourself
+ * When re-assigning to another IT technician, provide a justification and mark note/comment as private
+ * Speak with currently assigned technician before communicating with requestors on tickets that are not assigned to you.
+ 
+## Web Request Forms 
+
+Web Request Forms are required for new web liasons. Once a web liason has become familiar with the information required, they may choose whether to use the form or not. If a piece of important information is missing from a web request, send a Web Request Form for them to fill out.
 
 ## Team Foundation Server
 
