@@ -8,7 +8,7 @@ Directories and files are named with strict, yet flexible conventions.
 - Names of directories are based on the structure of content and services
 - If you include a document date, add it at the end of the file name and do not include the day
 
-## E xamples
+## Examples
 
 Correct | Incorrect
 ------- | ---------
@@ -16,5 +16,5 @@ Correct | Incorrect
 ------------------------- | /Hospital_Financial_Data/
 ------------------------- | /HospitalFinancialData/
 ------------------------- | /Hospitalfinancialdata/
-/Strategic-Plan-2017Feb.pdf | /StrategicPlan_Feb2017.pdf
--------------------------- | /Jan17-StratPlan.pdf
+Strategic-Plan-2017Feb.pdf | StrategicPlan_Feb2017.pdf
+Strategic-Plan-2017.pdf | Jan17-StratPlan.pdf
