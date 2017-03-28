@@ -1,4 +1,4 @@
-# OSHPD Web Team Standards, Policies, and Procedures
+# OSHPD Web Standards and Guidelines
 
 This documentation is being developed.
 
