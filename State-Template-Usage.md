@@ -1,5 +1,7 @@
 # State Template Usage
 
+[Customized State Template Documentation](http://devoshpd/Templates/StateTemplatev4/Docs/)
+
 ## Accordions (Drop-downs)
 * Must use “panel-group” (v5)
 * do not use accordion lists
