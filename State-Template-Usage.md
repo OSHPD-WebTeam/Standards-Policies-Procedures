@@ -22,8 +22,8 @@
 
 ## Lists
 * do not use a class, unless
-** you are highlighting the list with “.list-standout”
-** you are making and accordion list, in which case, use "understated" or "overstated"
+* * you are highlighting the list with “.list-standout”
+* * you are making and accordion list, in which case, use "understated" or "overstated"
 * of files to download must use "list-unstyled" and "auto-icons"
 
 ## Contacts
@@ -45,5 +45,5 @@
 
 ## Panels
 * Use of panels is justified when you are containing
-** call-out content intended to be a highlight
-** Large groups of related download links
+* * call-out content intended to be a highlight
+* * Large groups of related download links
