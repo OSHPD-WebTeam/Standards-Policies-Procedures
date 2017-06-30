@@ -16,9 +16,10 @@ The directories and files that make up the website shall be structured by the fo
 - All paths should be [root relative](https://github.com/OSHPD-WebTeam/Standards-Policies-Procedures/blob/master/File-Structure.md#root-relative-paths)
 
 ### Root relative paths
-A root relative path begins with the '/' (forward slash)  in all href statements.
+A root relative path begins with the '/' (forward slash)  in href statements.
 
 Correct &#10004; | Incorrect &#10006;
 ------- | ---------
 /documents/Admin/exams/7SHAC.pdf | index.html
 /FDD/FAQ/index.html  | ../FAQ/index.html
+/images/FDD/Logo.png | http://oshpd.ca.gov/FDD/index.html
