@@ -2,15 +2,11 @@
 
 [Customized State Template Documentation](http://devoshpd/Templates/StateTemplatev4/Docs/)
 
-## Accordions
-* must use ul classes "list-overstated" or "list-understated" (arrow animation)
-*
-
 ## Buttons
 
 ### Usage
 * must take you somewhere
-* should not be used as navigation
+* should not be used as navigation or accordions
 
 ### Classes
 * "btn-success" (green) must be used for actions (“Apply now”, “Register”, “Login”)
@@ -20,30 +16,35 @@
 * "btn-info" (tan) should not be used
 * "btn-warning" (orange) should not be used
 
+## Accordions
+* must use ul classes "list-overstated" or "list-understated" (arrow animation)
+* 
+
 ## Lists
 * do not use a class, unless
-* * you are highlighting the list with “.list-standout”
-* * you are making and accordion list, in which case, use "understated" or "overstated"
+ * you are highlighting the list with “.list-standout”
+ * you are making and accordion list, in which case, use "understated" or "overstated"
 * of files to download must use "list-unstyled" and "auto-icons"
 
-## Contacts
-* Contact information on division landing pages should always be program or service specific. (No individuals)
-* The label of the contacts area will always be formatted as "Contact [Group Name]"
-* Contacts should always be located at the top right of the page
-
 ## Navigation
-* No program names/divisons, acronyms, unit names
-* Top nav should have subtext or descriptions of the links
-* Top nav should be opened with a click instead of hover
+* no inline navigation
 
-### Secondary Navigation
-* 
-* Secondary navigation should only be located on the right side bar and not inline (v4)
-* Secondary navigation should be consistent across services
-* (optoional) secondary links related to service are located in accoridons
-* 
+### Top Navigation
+* No program names/divisons, acronyms, unit names
+* must have subtext or descriptions of the links
+
+### Side Navigation
+* must be consistent within related services
+* must contain the following, in this order
+ * navigation link list
+ * contact information for current service
+ * connect with us links
+
+#### Contacts
+* Contact information should always be program or service specific. (No individuals)
+* The label of the contacts area must always be formatted as "Contact [Group Name]"
 
 ## Panels
 * Use of panels is justified when you are containing
-* * call-out content intended to be a highlight
-* * Large groups of related download links
+ * highlighted content
+ * groups of related file download links
