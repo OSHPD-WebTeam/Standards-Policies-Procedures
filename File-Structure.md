@@ -9,12 +9,12 @@ The directories and files that make up the website shall be structured by the fo
 * All stylesheets \(\*.css, \*.less\) are placed directly in the /css/ or /less/ directory (no sub-directories)
 * All images \(\*.jpg, \*.gif, \*.png\) are placed in the /images/ directory
 * All server-side includes shall be placed directly in the /ssi/ directory (no sub-directories)
- * only use an SSI if the information is used on more than one page.
- * use a descriptive filename for the include.html
- * how to insert:
-```vbscript
-<!-- #include virtual="/ssi/include.html" -->
-```
+  * only use an SSI if the information is used on more than one page. 
+  * use a descriptive filename for the include.html
+  * how to insert:
+  ```vbscript
+  <!-- #include virtual="/ssi/include.html" -->
+  ```
 * All documents \(\*.pdf, \*.xlsx, \*.docx, etc\) shall be placed in the /documents/ directory
 * The documents directory will be organized as follows: /documents/[division]/[service(optional)]
 * New directories must be approved
